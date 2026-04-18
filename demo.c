@@ -8,6 +8,8 @@ int main()
     int c = a + d;
 
     printf("The sum is : %d\n",c);
+     int product = a * d;
+    printf("The product is : %d\n",product);
 
     return 0;
 }
